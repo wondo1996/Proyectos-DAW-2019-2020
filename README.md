@@ -18,7 +18,7 @@ Cada uno de los alumnos debe editar este fichero para incluir sus datos. Primero
 - [Camacho Martínez, Iván]()
 - [Garrido Vega, Elena]()
 - [Garzón Martín, Iván](https://github.com/igarzonm/hola-mundo-en-java)
-- [Guerrero Marín, Ángel]()
+- [Guerrero Marín, Ángel](https://github.com/wondo1996/Proyecto-Integrado)
 - [López Hernández, Jesús Manuel](https://github.com/jmanuellopezh/DAW2)
 - [Márquez Sánchez, Javier](https://github.com/jmarquezs2/projecto-integrdo)
 - [Martín Romero, Javier](https://github.com/javiermr93/Proyecto-Integrado)
